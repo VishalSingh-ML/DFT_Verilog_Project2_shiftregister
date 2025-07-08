@@ -1,5 +1,4 @@
 # DFT_Verilog_Project2_shiftregister
-# DFT_Verilog_Project2_shiftregister
 
 ## 📁 Project Structure
 DFT_Verilog_Project2_shiftregister
