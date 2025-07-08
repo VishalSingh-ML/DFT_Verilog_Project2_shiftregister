@@ -19,5 +19,6 @@ DFT_Verilog_Project2_shiftregister
 ![waveform_shift_register](./waveform_shift_register.png)
 
 
-Author
-Vishal Singh
+## 👨‍💻 Author
+**Vishal Singh**  
+DFT | Verilog RTL | Simulation using Icarus Verilog + GTKWave
